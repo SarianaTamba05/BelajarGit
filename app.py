@@ -13,3 +13,12 @@ def luas_persegi_panjang():
     luas = p * l
     print("luas segitiga adalah: ", luas)
 luas_persegi_panjang()
+
+#Menghitung Luas lingkaran
+def luas_lingkaran():
+    r = int(input("Masukkan Jari jari: "))
+    luas = 3.14 * r * r
+    print("luas segitiga adalah: ", luas)
+luas_lingkaran()
+
+
