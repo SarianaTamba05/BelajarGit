@@ -21,4 +21,11 @@ def luas_lingkaran():
     print("luas segitiga adalah: ", luas)
 luas_lingkaran()
 
+#Menghitung Luas lingkaran2
+def luas_lingkaran2():
+    r = int(input("Masukkan Jari jari: "))
+    luas = 3.14 * r * r
+    print("luas segitiga adalah: ", luas)
+luas_lingkaran2()
+
 
